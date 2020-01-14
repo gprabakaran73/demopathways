@@ -3,12 +3,16 @@
     {
       "Id": "c7c28837-e941-4e91-b0df-c41a7d3f412a",
       "Name": "Praba-Tech1",
-      "Subjects": []
+      "Subjects": [
+
+      ]
     },
     {
       "Id": "409b4120-9366-4257-bc06-1d9dd090fe85",
       "Name": "Praba-Tech2",
-      "Subjects": []
+      "Subjects": [
+
+      ]
     },
     {
       "Id": "73adcf64-361a-4c4b-802e-6eb6976bd305",
@@ -33,7 +37,9 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft Praba",
-      "SubCategories": []
+      "SubCategories": [
+
+      ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
@@ -42,7 +48,9 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft Praba",
-      "SubCategories": []
+      "SubCategories": [
+
+      ]
     }
   ],
   "Audiences": [
@@ -111,7 +119,9 @@
     "CurrentWebPart": "3.0.3",
     "RepoURL": "https://github.com/gprabakaran73/demopathways#demopathways"
   },
-  "ContentPacks": [],
+  "ContentPacks": [
+
+  ],
   "AssetOrigins": [
     "https://support.office.com",
     "https://docs.microsoft.com"
