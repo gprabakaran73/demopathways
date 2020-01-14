@@ -38,7 +38,17 @@
       "SubjectId": "",
       "Source": "Microsoft Praba",
       "SubCategories": [
+        {
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "First Days",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": [
 
+          ]
+        }
       ]
     },
     {
@@ -49,7 +59,17 @@
       "SubjectId": "",
       "Source": "Microsoft Praba",
       "SubCategories": [
+        {
+          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Name": "Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "c78e5ac6-dafa-41e5-a988-54cea94be0fc",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": [
 
+          ]
+        }
       ]
     }
   ],
