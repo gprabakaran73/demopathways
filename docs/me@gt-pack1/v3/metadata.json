@@ -1,5 +1,5 @@
 {
-  "Technologies": [
+  "TechnologiesPraba": [
     {
       "Id": "c9c28837-e941-4e91-b0df-c41a7d3f412a",
       "Name": "Excel",
@@ -127,7 +127,7 @@
       "Subjects": []
     }
   ],
-  "Categories": [
+  "CategoriesPraba": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get Started",
